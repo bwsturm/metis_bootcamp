@@ -6,7 +6,20 @@ Please submit this plan via Slack.
 
 
 #### Question/need:
+I would like to build a house price predictor for my home town of Pleasanton, CA.
 
 #### Description of my sample of movies and/or other data:
+I plan to use Zillow data for this project.  I will be limiting my predictor to Single Family homes.  The type of data I plan to scrap from Zillow includes:
+1. Year Built (Integer)
+1. Heating (Categorical)
+1. Cooling (Categorical)
+1. Parking (Integer)
+1. Bedrooms (Integer)
+1. Lot Size (Continuous variable)
+1. Floor Size (Continuous variable)
+1. Fireplace (Boolean)
+1. Ceiling Fan (Boolean)
+1. Room Count (Integer)
+1. 
 
 #### Characteristics of each movie and/or other entities:
