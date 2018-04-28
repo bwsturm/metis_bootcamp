@@ -1,0 +1,95 @@
+5650 Hansen Dr,
+Pleasanton, CA 94566
+4 beds 2 baths 1,527 sqft
+6048 Inglewood Dr,
+Pleasanton, CA 94588
+4 beds 2 baths 1,733 sqft
+2668 Calle Morelia,
+Pleasanton, CA 94566
+5 beds 3 baths 2,422 sqft
+3884 Vineyard Ave,
+Pleasanton, CA 94566
+3 beds 2 baths 1,652 sqft
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=66.0.3359.117)
+  (Driver info: chromedriver=2.38.551581 (2c9c29527ada10af4745ab26dd000ebb6d5e055e),platform=Mac OS X 10.13.4 x86_64)
+
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=66.0.3359.117)
+  (Driver info: chromedriver=2.38.551581 (2c9c29527ada10af4745ab26dd000ebb6d5e055e),platform=Mac OS X 10.13.4 x86_64)
+
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=66.0.3359.117)
+  (Driver info: chromedriver=2.38.551581 (2c9c29527ada10af4745ab26dd000ebb6d5e055e),platform=Mac OS X 10.13.4 x86_64)
+
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=66.0.3359.117)
+  (Driver info: chromedriver=2.38.551581 (2c9c29527ada10af4745ab26dd000ebb6d5e055e),platform=Mac OS X 10.13.4 x86_64)
+
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=66.0.3359.117)
+  (Driver info: chromedriver=2.38.551581 (2c9c29527ada10af4745ab26dd000ebb6d5e055e),platform=Mac OS X 10.13.4 x86_64)
+
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=66.0.3359.117)
+  (Driver info: chromedriver=2.38.551581 (2c9c29527ada10af4745ab26dd000ebb6d5e055e),platform=Mac OS X 10.13.4 x86_64)
+
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=66.0.3359.117)
+  (Driver info: chromedriver=2.38.551581 (2c9c29527ada10af4745ab26dd000ebb6d5e055e),platform=Mac OS X 10.13.4 x86_64)
+
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=66.0.3359.117)
+  (Driver info: chromedriver=2.38.551581 (2c9c29527ada10af4745ab26dd000ebb6d5e055e),platform=Mac OS X 10.13.4 x86_64)
+
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=66.0.3359.117)
+  (Driver info: chromedriver=2.38.551581 (2c9c29527ada10af4745ab26dd000ebb6d5e055e),platform=Mac OS X 10.13.4 x86_64)
+
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=66.0.3359.117)
+  (Driver info: chromedriver=2.38.551581 (2c9c29527ada10af4745ab26dd000ebb6d5e055e),platform=Mac OS X 10.13.4 x86_64)
+
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=66.0.3359.117)
+  (Driver info: chromedriver=2.38.551581 (2c9c29527ada10af4745ab26dd000ebb6d5e055e),platform=Mac OS X 10.13.4 x86_64)
+
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=66.0.3359.117)
+  (Driver info: chromedriver=2.38.551581 (2c9c29527ada10af4745ab26dd000ebb6d5e055e),platform=Mac OS X 10.13.4 x86_64)
+
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=66.0.3359.117)
+  (Driver info: chromedriver=2.38.551581 (2c9c29527ada10af4745ab26dd000ebb6d5e055e),platform=Mac OS X 10.13.4 x86_64)
+
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=66.0.3359.117)
+  (Driver info: chromedriver=2.38.551581 (2c9c29527ada10af4745ab26dd000ebb6d5e055e),platform=Mac OS X 10.13.4 x86_64)
+
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=66.0.3359.117)
+  (Driver info: chromedriver=2.38.551581 (2c9c29527ada10af4745ab26dd000ebb6d5e055e),platform=Mac OS X 10.13.4 x86_64)
+
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=66.0.3359.117)
+  (Driver info: chromedriver=2.38.551581 (2c9c29527ada10af4745ab26dd000ebb6d5e055e),platform=Mac OS X 10.13.4 x86_64)
+
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=66.0.3359.117)
+  (Driver info: chromedriver=2.38.551581 (2c9c29527ada10af4745ab26dd000ebb6d5e055e),platform=Mac OS X 10.13.4 x86_64)
+
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=66.0.3359.117)
+  (Driver info: chromedriver=2.38.551581 (2c9c29527ada10af4745ab26dd000ebb6d5e055e),platform=Mac OS X 10.13.4 x86_64)
+
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=66.0.3359.117)
+  (Driver info: chromedriver=2.38.551581 (2c9c29527ada10af4745ab26dd000ebb6d5e055e),platform=Mac OS X 10.13.4 x86_64)
+
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=66.0.3359.117)
+  (Driver info: chromedriver=2.38.551581 (2c9c29527ada10af4745ab26dd000ebb6d5e055e),platform=Mac OS X 10.13.4 x86_64)
+
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=66.0.3359.117)
+  (Driver info: chromedriver=2.38.551581 (2c9c29527ada10af4745ab26dd000ebb6d5e055e),platform=Mac OS X 10.13.4 x86_64)

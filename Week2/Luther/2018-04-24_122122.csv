@@ -1,0 +1,251 @@
+address,city,zip,bedrooms,bathrooms,floor_size,lot_size,year_built,sale_date,sale_price
+ 2804 Tangelo Ct, Pleasanton,94588,3,3,1614,"2,526 sqft",Built in 1998,04/23/18,1039000.0
+ 5650 Hansen Dr, Pleasanton,94566,4,2,1527,"6,699 sqft",Built in 1973,04/20/18,1200000.0
+ 592 Tawny Dr, Pleasanton,94566,3,2,1956,0.28 acres,Built in 1977,04/19/18,1150000.0
+ 2668 Calle Morelia, Pleasanton,94566,5,3,2422,"6,500 sqft",Built in 1984,04/18/18,1430000.0
+ 6048 Inglewood Dr, Pleasanton,94588,4,2,1733,"6,499 sqft",Built in 1968,04/18/18,1125000.0
+ 3884 Vineyard Ave, Pleasanton,94566,3,2,1652,"5,279 sqft",Built in 1952,04/18/18,940000.0
+ 6570 Arlington Dr, Pleasanton,94566,4,3,2652,"8,398 sqft",Built in 1967,04/17/18,1350000.0
+ 2730 Longspur Way, Pleasanton,94566,4,2,2172,"8,794 sqft",Built in 1972,04/17/18,1310000.0
+ 681 Norante Ct, Pleasanton,94566,5,6,6132,0.47 acres,Built in 2001,04/16/18,2900000.0
+ 4553 Carver Ct, Pleasanton,94588,4,2,1552,"6,250 sqft",Built in 1968,04/13/18,1120000.0
+ 4078 Cristobal Way, Pleasanton,94566,3,2,1159,"7,000 sqft",Built in 1965,04/12/18,969300.0
+ 1012 Shotwell Ct, Pleasanton,94566,6,7,7129,9.9 acres,Built in 2014,04/12/18,3495000.0
+ 7729 Olive Dr, Pleasanton,94588,4,3,2267,"6,216 sqft",Built in 1973,04/11/18,1260000.0
+ 1158 Baur Ct, Pleasanton,94566,4,5,3067,0.29 acres,Built in 2008,04/09/18,1800000.0
+ 3760 Trenery Dr, Pleasanton,94588,5,6,5197,0.92 acres,Built in 1997,04/09/18,2505000.0
+ 4802 Sutter Gate Ave, Pleasanton,94566,4,2,1815,"8,160 sqft",Built in 1976,04/09/18,1375000.0
+ 5689 San Jose Dr, Pleasanton,94566,5,3,3179,0.28 acres,Built in 1989,04/06/18,1710000.0
+ 6 Deer Oaks Dr, Pleasanton,94588,5,5,5137,0.61 acres,Built in 1988,04/05/18,2100000.0
+ 2550 Glen Isle Ave, Pleasanton,94588,4,3,2330,"4,286 sqft",Built in 1993,04/05/18,1050000.0
+ 2606 Sanderling Way, Pleasanton,94566,4,3,2704,"9,692 sqft",Built in 1975,04/05/18,1535000.0
+ 2506 Sanderling Dr, Pleasanton,94566,4,2,1933,"6,969 sqft",Built in 1969,04/05/18,1535000.0
+ 2504 Larrikeet Ct, Pleasanton,94566,4,2.5,2064,"8,474 sqft",Built in 1975,04/05/18,1200000.0
+ 6424 Randall Ct, Pleasanton,94566,4,3,2711,0.28 acres,Built in 1971,04/04/18,1450000.0
+ 5650 San Juan Way, Pleasanton,94566,4,2,2050,"7,056 sqft",Built in 1964,04/04/18,1300000.0
+ 3727 Platt Ct N, Pleasanton,94588,4,2,1626,"7,244 sqft",Built in 1969,04/04/18,1200000.0
+ 360 Abbie St, Pleasanton,94566,3,1,1062,"5,600 sqft",Built in 1943,04/04/18,560000.0
+ 3410 Cornerstone Ct, Pleasanton,94566,Studio,--,--,"6,627 sqft",,04/03/18,1309500.0
+ 9302 Benzon Dr, Pleasanton,94588,5,5,4000,0.45 acres,Built in 1997,04/03/18,2068000.0
+ 3881 Foothill Rd, Pleasanton,94588,5,3,4000,0.53 acres,Built in 1990,04/03/18,2089000.0
+ 583 Montori Ct, Pleasanton,94566,4,3,2296,0.42 acres,Built in 1995,04/02/18,1490000.0
+ 4866 Treewood Ct, Pleasanton,94588,3,3,1721,"8,842 sqft",Built in 1966,03/30/18,1181000.0
+ 3637 Touriga Dr, Pleasanton,94566,3,2,1323,"10,454 sqft",Built in 1971,03/30/18,1045000.0
+ 4248 Bevilacqua Ct, Pleasanton,94566,4,3,2379,"6,528 sqft",Built in 1968,03/30/18,1350000.0
+ 7857 Driftwood Way, Pleasanton,94588,6,3,2086,"6,577 sqft",Built in 1966,03/30/18,1155000.0
+ 4210 Remillard Ct, Pleasanton,94566,5,3,4281,0.62 acres,Built in 1991,03/30/18,2365000.0
+ 7492 Alder Ct, Pleasanton,94588,4,3,2444,"7,927 sqft",Built in 1975,03/30/18,1335000.0
+ 6232 Roslin Ct, Pleasanton,94588,3,2,1372,"6,200 sqft",Built in 1969,03/30/18,1031000.0
+ 590 Mission Dr, Pleasanton,94566,4,3,2209,"7,540 sqft",Built in 1971,03/30/18,1285000.0
+ 3546 Ballantyne Dr, Pleasanton,94588,5,3,2464,"7,039 sqft",Built in 1987,03/30/18,1260000.0
+ 5212 Ridgevale Way, Pleasanton,94566,4,3,2256,"7,202 sqft",Built in 1965,03/30/18,1000000.0
+ 3674 Touriga Dr, Pleasanton,94566,4,2,2149,0.25 acres,Built in 1971,03/30/18,1045000.0
+ 2915 Calle De La Mesa, Pleasanton,94566,4,3,1984,"5,183 sqft",Built in 1986,03/30/18,1190000.0
+ 7297 Valley Trails Dr, Pleasanton,94588,3,2,1296,"4,421 sqft",Built in 1989,03/29/18,960000.0
+ 789 View Dr, Pleasanton,94566,3,4,3000,0.39 acres,Built in 1969,03/29/18,1604000.0
+ 2175 Cameron Cir, Pleasanton,94588,5,4,3679,0.4 acres,Built in 2013,03/29/18,2140000.0
+ 6843 Corte De Flores, Pleasanton,94566,4,3,2221,"10,454 sqft",Built in 1986,03/29/18,1410000.0
+ 5397 Northway Rd, Pleasanton,94566,4,2,1882,"6,982 sqft",Built in 1966,03/29/18,1160000.0
+ 2642 Corte Vida, Pleasanton,94566,4,3,3398,0.29 acres,Built in 1980,03/29/18,1680000.0
+ 1280 Creek Trail Dr, Pleasanton,94566,4,3.5,3121,"7,003 sqft",Built in 2001,03/28/18,1630000.0
+ 1220 Bordeaux St, Pleasanton,94566,4,3,2106,0.36 acres,Built in 1976,03/28/18,1512000.0
+ 7965 Winged Foot Ct, Pleasanton,94588,3,3,2489,"6,490 sqft",Built in 1991,03/28/18,1350000.0
+ 1594 Chatham Pl, Pleasanton,94566,2,3,2372,"5,227 sqft",Built in 2012,03/28/18,1450000.0
+ 8052 Horizons Ct, Pleasanton,94588,5,5,7000,0.81 acres,Built in 2001,03/28/18,3325000.0
+ 1936 Brooktree Way, Pleasanton,94566,5,3,2530,"9,183 sqft",Built in 1965,03/27/18,1450000.0
+ 234 Del Valle Ct, Pleasanton,94566,4,3,1948,"4,146 sqft",Built in 1998,03/27/18,1140000.0
+ 3410 Cornerstone Ct, Pleasanton,94566,Studio,--,--,"4,028 sqft",,03/27/18,1202500.0
+ 5833 Hansen Dr, Pleasanton,94566,4,2,1527,"6,699 sqft",Built in 1973,03/26/18,1201000.0
+ 4953 Black Ave, Pleasanton,94566,5,4,2810,"8,102 sqft",Built in 1966,03/26/18,1473000.0
+ 4475 Shearwater Ct, Pleasanton,94566,4,2,1808,"6,825 sqft",Built in 1971,03/26/18,1203000.0
+ 4158 Rennellwood Way, Pleasanton,94566,3,2,1614,"3,484 sqft",Built in 1976,03/26/18,880000.0
+ 1811 Tanglewood Way, Pleasanton,94566,4,2.5,2087,"7,650 sqft",Built in 1966,03/23/18,1300000.0
+ 3690 Touriga Dr, Pleasanton,94566,4,2,1966,0.35 acres,Built in 1971,03/23/18,1135000.0
+ 7633 Chestnut Way, Pleasanton,94588,4,3,2342,"10,240 sqft",Built in 1975,03/23/18,725000.0
+ 3835 Promenade Way, Pleasanton,94566,3,2,1075,"4,970 sqft",Built in 1994,03/23/18,900000.0
+ 3410 Cornerstone Ct, Pleasanton,94566,Studio,--,--,"3,657 sqft",,03/23/18,1064500.0
+ 615 Romeo Ct, Pleasanton,94566,4,4,3901,1.02 acres,Built in 1988,03/22/18,1950000.0
+ 3440 Gravina Pl, Pleasanton,94566,4,3,2627,"8,712 sqft",Built in 1998,03/22/18,1769000.0
+ 3410 Cornerstone Ct, Pleasanton,94566,Studio,--,--,"3,885 sqft",,03/22/18,1200000.0
+ 672 Bonita Ave, Pleasanton,94566,3,2,1716,"9,021 sqft",Built in 1962,03/21/18,1040000.0
+ 3229 W Las Positas Blvd, Pleasanton,94588,4,3,1926,"5,196 sqft",Built in 1993,03/21/18,1235000.0
+ 3705 Ashwood Dr, Pleasanton,94588,4,2.5,1809,"9,783 sqft",Built in 1969,03/20/18,1052500.0
+ 308 Adams Way, Pleasanton,94566,2,1,1025,"6,500 sqft",Built in 1947,03/20/18,917000.0
+ 7336 Tulipwood Cir, Pleasanton,94588,4,2,2000,"6,534 sqft",Built in 1968,03/20/18,1050000.0
+ 8152 Canyon Creek Cir, Pleasanton,94588,4,3,2279,"4,300 sqft",Built in 1995,03/20/18,1075000.0
+ 8506 Lupine Ct, Pleasanton,94588,6,6,6100,1.18 acres,Built in 1996,03/19/18,2891500.0
+ 3410 Cornerstone Ct, Pleasanton,94566,Studio,--,--,"3,815 sqft",,03/16/18,1121500.0
+ 7355 Lemonwood Way, Pleasanton,94588,3,3,1667,"6,067 sqft",Built in 1986,03/16/18,1170000.0
+ 2126 Inverness Ct, Pleasanton,94588,4,3,3021,"5,662 sqft",Built in 1994,03/16/18,1435000.0
+ 3630 Bingham Ct, Pleasanton,94566,2,2,2090,"5,662 sqft",Built in 2011,03/16/18,1350000.0
+ 4100 Suffolk Way, Pleasanton,94588,4,3,1938,"6,969 sqft",Built in 1968,03/15/18,1140000.0
+ 4171 Stanley Blvd, Pleasanton,94566,Studio,--,--,"2,790 sqft",,03/15/18,1089000.0
+ 4170 Denker Dr, Pleasanton,94588,4,2,1928,"6,502 sqft",Built in 1975,03/14/18,1200000.0
+ 4370 Payne Rd, Pleasanton,94588,4,2,1489,"6,198 sqft",Built in 1973,03/14/18,925000.0
+ 2253 Via Espada, Pleasanton,94566,4,3,1950,"7,013 sqft",Built in 1971,03/14/18,1360000.0
+ 5555 Blackbird Dr, Pleasanton,94566,4,3,2128,"8,315 sqft",Built in 1973,03/13/18,1350000.0
+ 7734 Chestnut Way, Pleasanton,94588,5,3,2356,"8,197 sqft",Built in 1975,03/13/18,1275000.0
+ 3410 Cornerstone Ct, Pleasanton,94566,Studio,--,--,"3,867 sqft",,03/13/18,1221500.0
+ 2113 Alexander Way, Pleasanton,94588,2,3,1480,"3,641 sqft",Built in 1984,"$3,000  /mo",
+ 7865 Flagstone Dr, Pleasanton,94588,4,2,2201,"7,701 sqft",Built in 1968,03/12/18,1380000.0
+ 3316 Hartwell Ct, Pleasanton,94588,5,3,1944,"5,166 sqft",Built in 1993,03/09/18,1200000.0
+ 5038 Monaco Dr, Pleasanton,94566,4,3,3257,"9,740 sqft",Built in 1987,03/09/18,1700000.0
+ 4128 Pleasanton Ave, Pleasanton,94566,4,3,2634,"3,998 sqft",Built in 1997,03/09/18,1580000.0
+ 7702 Oak Creek Ct, Pleasanton,94588,5,3,2523,"6,359 sqft",Built in 1970,03/09/18,1381000.0
+ 4808 Ganner Ct, Pleasanton,94566,5,4,3150,"9,731 sqft",Built in 1971,03/09/18,1600000.0
+ 866 Sunset Creek Ln, Pleasanton,94566,6,5,4455,0.29 acres,Built in 2000,03/09/18,2167500.0
+ 7507 Driftwood Way, Pleasanton,94588,5,3,2098,"6,272 sqft",Built in 1966,03/08/18,1270000.0
+ 2846 Elsnab Ct, Pleasanton,94588,4,3,2489,"4,791 sqft",Built in 1996,03/08/18,1356000.0
+ 4270 Churchill Dr, Pleasanton,94588,4,2,2150,"8,619 sqft",Built in 1968,03/07/18,1150000.0
+ 4209 Brindisi Pl, Pleasanton,94566,5,4,4291,0.7 acres,Built in 2002,03/07/18,2050000.0
+ 1350 Bordeaux St, Pleasanton,94566,4,5,3396,0.39 acres,Built in 1992,03/07/18,487000.0
+ 6871 Singletree Ct, Pleasanton,94588,4,2,1489,"8,659 sqft",Built in 1971,03/06/18,765000.0
+ 4508 Alexander Valley Way, Dublin,94568,4,4,3627,None,Built in 2018,03/02/18,1308000.0
+ 4348 2nd St, Pleasanton,94566,4,2,1737,0.28 acres,Built in 1910,03/02/18,1530000.0
+ 4190 Crisfield Ln, Pleasanton,94566,4,2,1492,"6,908 sqft",Built in 1975,"$948,888",
+ 3589 Helen Dr, Pleasanton,94588,2,2,1076,"5,989 sqft",Built in 1988,03/02/18,840000.0
+ 2388 Willet Way, Pleasanton,94566,3,2,2186,"7,592 sqft",Built in 1967,03/02/18,1389000.0
+ 7473 Muirwood Ct, Pleasanton,94588,4,2,2004,"10,672 sqft",Built in 1969,03/02/18,1325000.0
+ 4176 Casterson Ct, Pleasanton,94566,5,4,3300,0.42 acres,Built in 1995,03/01/18,1745000.0
+ 4019 Crest Ct, Pleasanton,94588,4,2,1831,"6,200 sqft",Built in 1970,02/28/18,1066000.0
+ 1614 Paseo Del Cajon, Pleasanton,94566,4,2.5,2630,"6,700 sqft",Built in 1969,02/28/18,650000.0
+ 450 Amaral Cir, Pleasanton,94566,3,2,1300,"8,376 sqft",Built in 1952,02/26/18,930000.0
+ 4264 W Ruby Hill Dr, Pleasanton,94566,5,6,6875,0.63 acres,Built in 2006,02/26/18,3110000.0
+ 340 E Angela St, Pleasanton,94566,2,1,1000,"5,410 sqft",Built in 1943,02/23/18,799000.0
+ 411 Amaral Cir, Pleasanton,94566,3,2,1349,"9,078 sqft",Built in 1963,02/23/18,988000.0
+ 1546 Poppybank Ct, Pleasanton,94566,3,2.5,1484,"3,206 sqft",Built in 1990,02/23/18,675000.0
+ 878 Sylvaner Dr, Pleasanton,94566,4,2,1601,"7,222 sqft",Built in 1975,02/22/18,1050000.0
+ 1296 Creek Trail Dr, Pleasanton,94566,3,3,2537,"8,712 sqft",Built in 2000,02/22/18,1465000.0
+ 6443 Alisal St, Pleasanton,94566,5,2,2082,1.1 acres,Built in 1940,02/22/18,1437500.0
+ 238 Mavis Dr, Pleasanton,94566,3,3,1249,"2,343 sqft",Built in 1987,02/21/18,725000.0
+ 4119 Rennellwood Way, Pleasanton,94566,2,2,1751,"3,484 sqft",Built in 1983,02/21/18,938000.0
+ 7768 Creekside Dr, Pleasanton,94588,3,3,1614,"1,960 sqft",Built in 1990,02/21/18,835000.0
+ 3963 Stanley Blvd, Pleasanton,94566,2,2,1650,0.92 acres,Built in 1912,02/21/18,227000.0
+ 3200 Denton Ct, Pleasanton,94566,2,2,2090,"5,227 sqft",Built in 2014,02/21/18,1300000.0
+ 5286 Blackbird Dr, Pleasanton,94566,4,2.5,2100,"6,969 sqft",Built in 1972,02/20/18,1221000.0
+ 2590 Skylark Way, Pleasanton,94566,4,3,2164,"7,840 sqft",Built in 1976,02/20/18,1250000.0
+ 4497 Alexander Valley Way, Dublin,94568,4,4,3627,None,Built in 2018,02/16/18,1305760.0
+ 4114 Fairlands Dr, Pleasanton,94588,5,2.5,2572,"6,394 sqft",Built in 1969,02/15/18,1245000.0
+ 1785 Greenwood Rd, Pleasanton,94566,4,3,2125,"8,163 sqft",Built in 1966,02/14/18,1410000.0
+ 4250 Muirwood Dr, Pleasanton,94588,3,2,1593,"7,296 sqft",Built in 1968,02/13/18,1100000.0
+ 5128 Blackbird Dr, Pleasanton,94566,4,3,2364,"7,451 sqft",Built in 1975,02/13/18,1351000.0
+ 3428 Gravina Pl, Pleasanton,94566,4,3,2627,"8,929 sqft",Built in 1999,02/13/18,1735000.0
+ 4171 Stanley Blvd, Pleasanton,94566,Studio,--,--,"2,790 sqft",,02/13/18,1069000.0
+ 3613 Pontina Ct, Pleasanton,94566,6,6,4922,0.59 acres,Built in 2005,02/09/18,2300000.0
+ 3536 Pimlico Dr, Pleasanton,94588,4,3,2150,"8,637 sqft",Built in 1985,02/09/18,1038000.0
+ 553 Bonita Ave, Pleasanton,94566,3,2,1780,"8,000 sqft",Built in 1956,02/07/18,231000.0
+ 3202 Pandorea Ct, Pleasanton,94588,3,3,1614,"2,613 sqft",Built in 1998,02/07/18,990000.0
+ 3655 Reflections Dr, Pleasanton,94566,3,3,1458,"3,990 sqft",Built in 1994,02/06/18,890000.0
+ 3410 Cornerstone Ct, Pleasanton,94566,Studio,--,--,"4,025 sqft",,02/06/18,1221500.0
+ 1429 Whispering Oaks Way, Pleasanton,94566,3,3,2396,"4,883 sqft",Built in 2003,02/01/18,1285000.0
+ 3410 Cornerstone Ct, Pleasanton,94566,Studio,--,--,"3,867 sqft",,02/01/18,1093500.0
+ 3410 Cornerstone Ct, Pleasanton,94566,Studio,--,--,"3,850 sqft",,02/01/18,1106000.0
+ 1955 Brooktree Way, Pleasanton,94566,3,2,1377,"6,499 sqft",Built in 1965,02/01/18,965000.0
+ 4192 Cristobal Way, Pleasanton,94566,4,3,2022,"6,912 sqft",Built in 1965,01/31/18,1175000.0
+ 2809 Victoria Ridge Ct, Pleasanton,94566,4,3,3013,"8,276 sqft",Built in 1991,01/31/18,1600000.0
+ 3724 Florian St, Pleasanton,94588,3,3,1719,"2,854 sqft",Built in 1997,01/31/18,1030000.0
+ 1028 Rhine Way, Pleasanton,94566,5,3,2837,0.28 acres,Built in 1987,01/31/18,1550000.0
+ 7793 Fairbrook Ct, Pleasanton,94588,5,2.5,2460,0.36 acres,Built in 1968,01/31/18,1012000.0
+ 904 Pamela Pl, Pleasanton,94566,4,3,2953,"9,125 sqft",Built in 1998,01/31/18,1429000.0
+ 1029 Hometown Way, Pleasanton,94566,3,3,1750,"2,565 sqft",Built in 1999,01/31/18,870000.0
+ 47 Silver Oaks Ct, Pleasanton,94566,5,6,6186,1.75 acres,Built in 2017,01/26/18,3790000.0
+ 387 Ewing Dr, Pleasanton,94566,4,3,2859,"6,969 sqft",Built in 1967,01/25/18,1380000.0
+ 3726 Oak Brook Ct, Pleasanton,94588,5,3,2179,"6,503 sqft",Built in 1975,01/25/18,1200000.0
+ 3410 Cornerstone Ct, Pleasanton,94566,Studio,--,--,"3,955 sqft",,01/25/18,1081000.0
+ 878 Montevino Dr, Pleasanton,94566,5,3,3655,0.26 acres,Built in 1991,01/24/18,108455.0
+ 819 Genevieve Pl, Pleasanton,94566,4,3,3000,0.28 acres,Built in 1997,01/22/18,1620000.0
+ 3375 Morgan Ct, Pleasanton,94588,4,3,2278,"8,006 sqft",Built in 1981,01/19/18,1260000.0
+ 7589 Highland Oaks Dr, Pleasanton,94588,4,2.5,2051,"6,185 sqft",Built in 1966,01/19/18,1220000.0
+ 6058 Allbrook Cir, Pleasanton,94588,3,2,1430,"7,405 sqft",Built in 1968,01/19/18,870000.0
+ 3733 Angus Way, Pleasanton,94588,4,2.5,1845,"4,956 sqft",Built in 1996,01/19/18,1150000.0
+ 4129 Grant Ct, Pleasanton,94566,6,4,4554,0.43 acres,Built in 1993,01/19/18,2160000.0
+ 2455 Bay Meadows Cir, Pleasanton,94566,3,2,1421,"3,833 sqft",Built in 1979,01/18/18,835000.0
+ 3410 Cornerstone Ct, Pleasanton,94566,Studio,--,--,"3,888 sqft",,01/17/18,1127500.0
+ 2338 Willet Way, Pleasanton,94566,5,2,2650,"7,884 sqft",Built in 1967,01/17/18,1472000.0
+ 5489 Blackbird Dr, Pleasanton,94566,4,2.5,2100,"10,384 sqft",Built in 1972,01/12/18,217000.0
+ 1035 Sycamore Creek Way, Pleasanton,94566,4,3,3201,0.39 acres,Built in 2005,01/11/18,1800000.0
+ 7472 Hillsdale Dr, Pleasanton,94588,4,3,2460,"7,213 sqft",Built in 1969,01/11/18,1165000.0
+ 6474 Alvord Way, Pleasanton,94588,4,2,1489,"10,000 sqft",Built in 1968,01/11/18,755000.0
+ 1618 Holly Cir, Pleasanton,94566,4,3,1900,"2,848 sqft",Built in 1989,01/09/18,907000.0
+ 1493 Trimingham Dr, Pleasanton,94566,2,2,1345,"4,726 sqft",Built in 1986,01/09/18,721000.0
+ 228 Spring St, Pleasanton,94566,4,2,1128,"3,898 sqft",Built in 1926,01/09/18,892500.0
+ 3276 Monmouth Ct, Pleasanton,94588,4,3,1941,"7,535 sqft",Built in 1968,01/09/18,1170000.0
+ 5904 Corte Espada, Pleasanton,94566,4,2,1732,0.31 acres,Built in 1971,01/08/18,1144500.0
+ 4629 Jefferson Ct, Pleasanton,94588,4,2,1816,"7,000 sqft",Built in 1976,01/05/18,855000.0
+ 6882 Via Quito, Pleasanton,94566,4,2,1756,"7,423 sqft",Built in 1978,01/05/18,1050000.0
+ 4474 Bacon Ct, Pleasanton,94588,4,2,1607,"6,098 sqft",Built in 1968,01/04/18,990000.0
+ 7879 Paseo Santa Cruz, Pleasanton,94566,4,3,2420,"4,362 sqft",Built in 1990,01/04/18,268500.0
+ 3617 Kamp Dr, Pleasanton,94588,2,2,1478,"4,451 sqft",Built in 1986,01/04/18,927000.0
+ 4103 Graham St, Pleasanton,94566,3,2,1272,"6,000 sqft",Built in 1959,01/03/18,940000.0
+ 1222 Hearst Dr, Pleasanton,94566,4,3,3123,0.36 acres,Built in 1994,01/02/18,1715000.0
+ 553 Santel Ct, Pleasanton,94566,5,5,6050,0.7 acres,Built in 1997,12/29/17,2555000.0
+ 1006 Kolln St, Pleasanton,94566,4,3,2402,"6,969 sqft",Built in 1959,12/29/17,825000.0
+ 3683 Annis Cir, Pleasanton,94588,3,2,1336,"6,416 sqft",Built in 1993,12/29/17,908000.0
+ 2384 Silver Oaks Ln, Pleasanton,94566,Studio,--,--,0.4 acres,,12/29/17,2275000.0
+ 4568 1st St, Pleasanton,94566,4,3,2432,"5,301 sqft",Built in 1910,12/28/17,1548000.0
+ 2505 Calle Madras, Pleasanton,94566,4,2,1652,"6,904 sqft",Built in 1973,12/28/17,1150000.0
+ 2366 Silver Oaks Ln, Pleasanton,94566,Studio,--,--,0.37 acres,,12/28/17,2120000.0
+ 4753 Holland Dr, Pleasanton,94588,4,2,1816,"6,499 sqft",Built in 1973,12/27/17,950000.0
+ 589 E Angela St, Pleasanton,94566,3,3,1989,"7,000 sqft",Built in 1956,12/22/17,12750000.0
+ 3876 Appian St, Pleasanton,94588,4,3,2321,"3,650 sqft",Built in 1997,12/22/17,1226500.0
+ 3658 Camelot Ct, Pleasanton,94588,4,2,1616,"7,809 sqft",Built in 1970,12/21/17,1030000.0
+ 3570 Kings Canyon Ct, Pleasanton,94588,5,3,1915,"6,516 sqft",Built in 1971,12/21/17,1100000.0
+ 839 Bonita Ave, Pleasanton,94566,4,3,1986,"7,000 sqft",Built in 1969,12/21/17,1100000.0
+ 3884 Mesa Verde Ct, Pleasanton,94588,3,2,1549,0.28 acres,Built in 1970,12/20/17,905000.0
+ 6254 Ruxton Ct, Pleasanton,94588,4,2,1603,"7,000 sqft",Built in 1969,12/19/17,910000.0
+ 6842 Via Quito, Pleasanton,94566,4,2,1756,"6,700 sqft",Built in 1975,"$1,130,000",
+ 3887 Mesa Verde Ct, Pleasanton,94588,4,2,1550,"9,163 sqft",Built in 1978,"$3,600  /mo",
+ 6857 Siesta Ct, Pleasanton,94588,3,2,1372,"6,294 sqft",Built in 1971,12/19/17,810000.0
+ 3405 Stacey Way, Pleasanton,94588,4,2,1802,"7,958 sqft",Built in 1985,12/19/17,1150000.0
+ 3186 Lansdown Ct, Pleasanton,94588,4,2,1956,"6,507 sqft",Built in 1971,12/19/17,1060000.0
+ 3638 Platt Ct S, Pleasanton,94588,3,2,1576,"6,821 sqft",Built in 1969,12/18/17,975000.0
+ 3638 Platt Ct S, Pleasanton,94588,3,2,1576,"6,821 sqft",Built in 1969,12/18/17,975000.0
+ 6249 Garner Ct, Pleasanton,94588,3,2,1372,"6,198 sqft",Built in 1969,12/15/17,723000.0
+ 2662 Chocolate St, Pleasanton,94588,4,3,1974,"2,874 sqft",Built in 2000,12/15/17,1015000.0
+ 558 Montori Ct, Pleasanton,94566,4,2.5,2296,"9,371 sqft",Built in 1995,12/15/17,1410000.0
+ 7852 Foothill Rd, Pleasanton,94566,5,5,4182,0.92 acres,Built in 1997,12/14/17,1880000.0
+ 3133 Devereux Ct, Pleasanton,94588,4,4,3182,0.29 acres,Built in 1997,12/14/17,1950000.0
+ 956 Summit Creek Ct, Pleasanton,94566,6,5,4455,0.38 acres,Built in 2000,12/13/17,2190000.0
+ 8023 Golden Eagle Way, Pleasanton,94588,5,6,5483,0.85 acres,Built in 1993,12/13/17,2525888.0
+ 414 Mavis Dr, Pleasanton,94566,4,3,1971,"7,980 sqft",Built in 1965,12/13/17,1206500.0
+ 1 Deer Oaks Dr, Pleasanton,94588,5,5,4197,0.81 acres,Built in 1988,12/13/17,2196500.0
+ 2028 W Lagoon Rd, Pleasanton,94566,4,4,3722,"6,738 sqft",Built in 2004,12/12/17,1650000.0
+ 3742 Oak Brook Ct, Pleasanton,94588,3,2,1668,"6,969 sqft",Built in 1975,12/12/17,980000.0
+ 7626 Knollbrook Dr, Pleasanton,94588,5,2.5,2400,"7,627 sqft",Built in 1975,12/12/17,1100000.0
+ 4553 Fisher Ct, Pleasanton,94588,3,2,1735,"6,198 sqft",Built in 1968,12/12/17,810000.0
+ 4379 Campinia Pl, Pleasanton,94566,5,4,4291,0.65 acres,Built in 2000,12/12/17,2160000.0
+ 4391 Bristolwood Rd, Pleasanton,94588,4,2,1927,"7,387 sqft",Built in 1966,12/11/17,1010000.0
+ 1560 Oxsen St, Pleasanton,94566,3,3,1731,"2,848 sqft",Built in 1986,12/11/17,869000.0
+ 4869 Del Valle Pkwy, Pleasanton,94566,4,2,2172,"9,988 sqft",Built in 1970,12/08/17,1364000.0
+ 1757 Greenwood Rd, Pleasanton,94566,3,2,1724,"7,143 sqft",Built in 1966,12/08/17,1142000.0
+ 4173 Garibaldi Pl, Pleasanton,94566,--,--,--,"1,995 sqft",,12/08/17,358000.0
+ 4466 2nd St, Pleasanton,94566,5,4,3005,0.46 acres,Built in 1875,12/08/17,3000000.0
+ 4173 Garibaldi Pl, Pleasanton,94566,3,2.5,1666,"4,104 sqft",Built in 1992,12/08/17,358000.0
+ 1196 Crellin Rd, Pleasanton,94566,3,2,1556,"8,276 sqft",Built in 1977,12/08/17,990000.0
+ 3484 Zion Canyon Ct, Pleasanton,94588,4,2,2125,"8,265 sqft",Built in 1971,12/08/17,1200000.0
+ 3872 Cheshire Ct, Pleasanton,94588,4,3,2150,"10,855 sqft",Built in 1985,12/07/17,1215000.0
+ 3178 Weymouth Ct, Pleasanton,94588,3,3,2023,"6,869 sqft",Built in 1969,12/07/17,967000.0
+ 4163 Amberwood Cir, Pleasanton,94588,2,2,1118,"1,260 sqft",Built in 1985,12/06/17,540000.0
+ 3687 Ashwood Dr, Pleasanton,94588,4,2,1519,0.3 acres,Built in 1971,12/06/17,925000.0
+ 4642 Sierrawood Ln, Pleasanton,94588,4,2.5,1868,"6,816 sqft",Built in 1965,12/05/17,960000.0
+ 6102 Corte Altamira, Pleasanton,94566,4,3,1876,"8,934 sqft",Built in 1973,12/05/17,1100000.0
+ 1648 Holly Cir, Pleasanton,94566,4,3,2030,"6,398 sqft",Built in 1989,12/05/17,970000.0
+ 4127 Francisco St, Pleasanton,94566,4,2,1368,"7,840 sqft",Built in 1965,12/04/17,885000.0
+ 3757 Selvante St, Pleasanton,94566,5,6,7211,0.6 acres,Built in 2010,"$2,776,000",
+ 4206 Dundalk Ct, Pleasanton,94566,4,2,2177,"8,707 sqft",Built in 1975,12/01/17,1190000.0
+ 1166 Vintner Way, Pleasanton,94566,4,2,2078,"6,534 sqft",Built in 1971,12/01/17,1075000.0
+ 4844 Saginaw Cir, Pleasanton,94588,3,1.5,1130,901 sqft,Built in 1973,12/01/17,569000.0
+ 1648 Orchard Way, Pleasanton,94566,5,3,2749,"7,657 sqft",Built in 1966,11/30/17,1230000.0
+ 1180 Paladin Way, Pleasanton,94566,6,7,6484,0.49 acres,Built in 2006,11/30/17,2870000.0
+ 5752 Stonecliff Vista Ln, Pleasanton,94566,5,3.5,2901,"5,000 sqft",Built in 2004,11/30/17,1010000.0
+ 839 Bonde Ct, Pleasanton,94566,4,3,2174,0.28 acres,Built in 1963,11/29/17,1330000.0
+ 2583 Skimmer Ct, Pleasanton,94566,4,3,2147,"8,263 sqft",Built in 1977,11/29/17,1260000.0
+ 370 Oak Ln, Pleasanton,94566,5,4,3525,0.85 acres,Built in 1967,11/29/17,1650000.0
+ 3362 Hadsell Ct, Pleasanton,94588,5,3,1944,"4,499 sqft",Built in 1993,11/29/17,1155000.0
+ 4622 Mason St, Pleasanton,94588,3,2,1579,"6,198 sqft",Built in 1975,11/29/17,945000.0
+ 6423 Calle Esperanza, Pleasanton,94566,4,3,3102,"6,712 sqft",Built in 1991,11/28/17,1600000.0
+ 3500 Serra Circle, Pleasanton,94588,3,3.5,2422,None,Built in 2017,11/28/17,958000.0
+ 3216 Royalton Ct, Pleasanton,94588,5,3,2300,"6,202 sqft",Built in 1969,11/28/17,1180000.0
+ 927 Happy Valley Rd, Pleasanton,94566,4,3,3350,1.94 acres,Built in 2010,11/27/17,1627000.0
+ 2330 Silver Oaks Ln, Pleasanton,94566,Studio,--,--,0.4 acres,,11/27/17,2099000.0
+ 2330 Silver Oaks Ln, Pleasanton,94566,5,4.5,5351,0.4 acres,Built in 2017,11/27/17,2098000.0
