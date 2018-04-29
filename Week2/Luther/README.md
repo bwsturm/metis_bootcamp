@@ -1,5 +1,5 @@
 Project name: Predicting House Prices in Pleasanton, California
-
+---------------------------------------------------------------
 This Readme provides a brief description of the main files used for this project.
 
 **BSturm_ProjLuther_sandbox2.ipynb** <br />
