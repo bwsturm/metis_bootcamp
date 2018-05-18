@@ -7,3 +7,4 @@ This project is associated with the classification of mushrooms based on their e
 * code: Consists of iPython notebook which contains the scripts and functions I used for this project.
 * presentation: Slide deck which provides an overview of my project, including major findings.
 * mvp: Contains the document describing my minimum viable product.
+* summary: Contains a brief summary document describing the goals of my project, the methods used, and some key results.
