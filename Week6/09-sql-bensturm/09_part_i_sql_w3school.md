@@ -51,8 +51,42 @@ Aux joyeux ecclésiastiques	140.75
 ```
 
 4. How many different countries are all the customers from? (*Hint:* consider [DISTINCT](http://www.w3schools.com/sql/sql_distinct.asp).)
+```SQL
+SELECT DISTINCT Country FROM Customers;
+```
+```
+Country
+Germany
+Mexico
+UK
+Sweden
+France
+Spain
+Canada
+Argentina
+Switzerland
+Brazil
+Austria
+Italy
+Portugal
+USA
+Venezuela
+Ireland
+Belgium
+Norway
+Denmark
+Finland
+Poland
+```
 
 5. What category appears in the most orders?
+```SQL
+SELECT CategoryID, Count(*) AS CategoryCount FROM Products
+JOIN OderDetails ON OrderDetails.ProductID = Products.ProductID
+GROUP BY OrderDetails.OrderID
+ORDER BY CategoryCount DESC
+LIMIT 1;
+```
 
 6. What was the total cost for each order?
 
