@@ -1,5 +1,7 @@
 # What should we watch tonight?  A Movie Recommender System
 
+![Netflix homepage](https://github.com/bwsturm/metis_bootcamp/blob/master/Week10/movie_recommender/docs/presentations/images/Screen%20Shot%202018-06-25%20at%206.06.33%20PM.png)
+
 For this project, I built a movie recommender based on the idea that people with similar tastes as ours may also like similar movies.  This is known as a collaborative filtering based approach to recommendation.  The data source I used to build my recommender is the MovieLens 20 Million Dataset, which consist of 20 million ratings of movies.  To run the code in these notebooks, you will need to download this [data set](https://grouplens.org/datasets/movielens/20m/).
 
 **Repository Structure**
